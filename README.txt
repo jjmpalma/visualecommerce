@@ -57,7 +57,7 @@ https://users.aber.ac.uk/jmp16/
 ========== CDN LIBRARIES ==========
 
 - Google fonts (Fonts): https://fonts.google.com/
-- Bootstrap (CSS library): https://getbootstrap.com/ (CSS library)
+- Bootstrap (CSS library): https://getbootstrap.com/ 
 - Font Awesome (Vectors): https://fontawesome.com/
 - G6 antv (Graph visualization library): https://g6.antv.vision/en 
 - jQuery (JavaScript library): https://jquery.com/
