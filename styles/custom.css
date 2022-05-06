@@ -1,0 +1,43 @@
+body {
+   font-family: 'Ubuntu', sans-serif;
+   background-color: #f8f9fa;
+   font-size: small;
+}
+
+.navbar {
+   height: 60px;
+}
+
+#container {
+   background-color: #f8f9fa;
+}
+
+.form-select-sm {
+   width: 192px;
+}
+
+#graph_config {
+   border-radius: 10px;
+   color: #f8f9fa;
+   background-color: #343a40;
+   position:absolute;
+   left:15px;
+   top:75px;
+   width:225px;
+}
+
+#graph_config p {
+   font-size: 0.8rem;
+   margin-left: 0.4rem;
+   margin-top: 0.4rem;
+   margin-bottom: 0.3rem;
+}
+
+#graph_config .form-check {
+   width: 176px;
+}
+
+#graph_config .form-switch {
+   margin: 0.2rem;
+}
+
