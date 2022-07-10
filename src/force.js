@@ -261,7 +261,7 @@ function start_force(graph_config) {
               show: true,
               width: customer_node_size * 0.7,
               height: customer_node_size * 0.7,
-              img: 'https://jjmpalma.github.io/assets/customer.svg'
+              img: 'https://github.com/jjmpalma/visualecommerce/assets/customer.svg'
             }
           } else {
             node.size = 20
@@ -269,7 +269,7 @@ function start_force(graph_config) {
               show: true,
               width: 10,
               height: 10,
-              img: 'https://jjmpalma.github.io/assets/customer.svg'
+              img: 'https://github.com/jjmpalma/visualecommerce/assets/customer.svg'
             }
           }
 

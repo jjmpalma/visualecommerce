@@ -28,35 +28,35 @@ $(document).ready(function() {
 
       switch (data_select) {
          case 'all_events_small_network':
-            data_uri = 'https://jjmpalma.github.io/data_json/all_events_small_network.json';
+            data_uri = 'https://github.com/jjmpalma/visualecommerce/data_json/all_events_small_network.json';
             break;
          
          case 'all_events_big_network':
-            data_uri = 'https://jjmpalma.github.io/data_json/all_events_big_network.json';
+            data_uri = 'https://github.com/jjmpalma/visualecommerce/data_json/all_events_big_network.json';
             break;
          
          case 'purchase_events_small_network':
-            data_uri = 'https://jjmpalma.github.io/data_json/purchase_events_small_network.json';
+            data_uri = 'https://github.com/jjmpalma/visualecommerce/data_json/purchase_events_small_network.json';
             break;
 
          case 'purchase_events_big_network':
-            data_uri = 'https://jjmpalma.github.io/data_json/purchase_events_big_network.json';
+            data_uri = 'https://github.com/jjmpalma/visualecommerce/data_json/purchase_events_big_network.json';
             break;
 
          case 'cart_events_small_network':
-            data_uri = 'https://jjmpalma.github.io/data_json/cart_events_small_network.json';
+            data_uri = 'https://github.com/jjmpalma/visualecommerce/data_json/cart_events_small_network.json';
             break;
 
          case 'cart_events_big_network':
-            data_uri = 'https://jjmpalma.github.io/data_json/cart_events_big_network.json';
+            data_uri = 'https://github.com/jjmpalma/visualecommerce/data_json/cart_events_big_network.json';
             break;
 
          case 'view_events_small_network':
-            data_uri = 'https://jjmpalma.github.io/data_json/view_events_small_network.json';
+            data_uri = 'https://github.com/jjmpalma/visualecommerce/data_json/view_events_small_network.json';
             break;
          
          case 'view_events_big_network':
-            data_uri = 'https://jjmpalma.github.io/data_json/view_events_big_network.json';
+            data_uri = 'https://github.com/jjmpalma/visualecommerce/data_json/view_events_big_network.json';
             break;
       }
 
